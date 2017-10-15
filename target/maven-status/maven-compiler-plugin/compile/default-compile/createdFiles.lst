@@ -1,0 +1,6 @@
+com\todo\controllers\TasksPriorityEnumRestController.class
+com\todo\TodoListAppApplication.class
+com\todo\models\Priority.class
+com\todo\models\Tasks.class
+com\todo\controllers\TasksRestController.class
+com\todo\repositories\TasksRepository.class
